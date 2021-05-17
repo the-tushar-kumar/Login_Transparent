@@ -1,0 +1,13 @@
+.container{
+  left:10%;
+  top:20%;
+}
+.container h1{
+  font-size: 30px;
+}
+
+.box input{
+  background: none;
+  width:60%;
+  font-size: 12px;
+}
